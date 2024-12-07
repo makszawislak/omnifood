@@ -1,3 +1,3 @@
 # Omnifood
 
-Website project for ficitional food delivery app
+Website project for ficitional food delivery company
